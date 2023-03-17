@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm a web developer 👋
 
 ## Github Stats :pushpin:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielGlzZ&show_icons=true&hide=stars&theme=ayu-mirage&hide_border=true&)
