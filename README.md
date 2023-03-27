@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a web development | VUE | TypeScript | JavaScript | CSS | HTML
+I'm a web development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Luis Daniel Gonzalez Zamudio) 
