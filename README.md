@@ -9,8 +9,8 @@ I'm a web development
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=DanielGlzZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielGlzZ&show_icons=true&hide=stars&theme=ayu-mirage&hide_border=true&)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DanielGlzZ&theme=dark&hide_border=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGlzZ&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=DanielGlzZ&theme=dark&hide_border=false)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGlzZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ---
