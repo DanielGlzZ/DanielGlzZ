@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a web development
+I'm a web app developer
 
 
 ## :globe_with_meridians: Socials:
